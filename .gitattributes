@@ -1,0 +1,5 @@
+*.psd filter=lfs diff=lfs merge=lfs -text
+data/beijing_chaoyang.zip filter=lfs diff=lfs merge=lfs -text
+data/beijing.zip filter=lfs diff=lfs merge=lfs -text
+data/jinan.zip filter=lfs diff=lfs merge=lfs -text
+data/central_beijing.zip filter=lfs diff=lfs merge=lfs -text
