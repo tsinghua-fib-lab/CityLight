@@ -1,0 +1,12 @@
+{
+  "recommendations": [
+    "ms-vscode.cpptools",
+    "twxs.cmake",
+    "ms-vscode.cmake-tools",
+    "cschlosser.doxdocgen",
+    "eamodio.gitlens",
+    "editorconfig.editorconfig",
+    "streetsidesoftware.code-spell-checker",
+    "mine.cpplint"
+  ]
+}

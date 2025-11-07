@@ -1,0 +1,15 @@
+[submodule "proto"]
+	path = protos
+	url = ../protos.git
+[submodule "src/lib/fmt"]
+	path = src/lib/fmt
+	url = ../../lib/fmt.git
+[submodule "src/lib/yaml-cpp"]
+	path = src/lib/yaml-cpp
+	url = ../../lib/yaml-cpp.git
+[submodule "src/lib/argparse"]
+	path = src/lib/argparse
+	url = ../../lib/argparse.git
+[submodule "src/lib/pybind11"]
+	path = src/lib/pybind11
+	url = ../../lib/pybind11.git

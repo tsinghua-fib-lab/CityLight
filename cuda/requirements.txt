@@ -1,0 +1,5 @@
+pyyaml
+python-etcd
+grpcio-tools
+flask
+waitress

@@ -1,0 +1,18 @@
+map_file: "./data/srt.map_beijing5ring_20230601.pb"
+agent_file: "./data/m3_1w_100s.bin"
+agent_limit: -1
+output_file: "./output.bin"
+output_type: "lane" # lane / agent / disable
+road_status_interval: 300
+start_step: 100
+total_step: 2000
+step_interval: 1
+routing_url: "localhost:52101"
+pre_routing: true
+enable_aoi_indoor: false
+enable_junction: true
+seed: 43
+x_min: 5435.7636712654
+y_min: 29.586742780182
+x_max: 6980.3282089837
+y_max: 1807.4755817933

@@ -1,0 +1,8 @@
+stages:
+  - test
+
+buf-lint:
+  image: registry.fiblab.net/general/dev:latest
+  stage: test
+  script:
+    - buf lint
